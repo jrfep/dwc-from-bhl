@@ -1,6 +1,9 @@
 ## ignore file with real.apikey
 real.apikeys.R
 
+## emacs backups
+*~
+
 # History files
 .Rhistory
 .Rapp.history
