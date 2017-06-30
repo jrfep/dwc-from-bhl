@@ -1,3 +1,6 @@
+## ignore file with real.apikey
+real.apikeys.R
+
 # History files
 .Rhistory
 .Rapp.history
