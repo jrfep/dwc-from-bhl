@@ -4,6 +4,9 @@ real.apikeys.R
 ## emacs backups
 *~
 
+##tons of bytes of pages
+data/BHLocr/*txt
+
 # History files
 .Rhistory
 .Rapp.history
